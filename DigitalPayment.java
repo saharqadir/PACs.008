@@ -1,6 +1,5 @@
 package bulkIbanRaastTesting;
 
-//import org.apache.commons.codec.binary.Base64;
 import org.json.XML;
 import org.json.simple.*;
 import org.json.simple.parser.JSONParser;
@@ -44,9 +43,7 @@ import com.ncss.server.utils.ncssUtil.NcssUtilHome;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-//import com.google.gson.Gson;
-//import com.google.gson.GsonBuilder;
-//import com.google.gson.JsonElement;
+
 import com.nccpl.Kyc.CreateJWTToken;
 
 import java.io.File;
